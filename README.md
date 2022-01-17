@@ -12,7 +12,19 @@ My name is Amine DAHAH a computer Science student currently learning web develop
 - :computer: I'm currently studying Computer Science
 - :sparkler: Learning to become Full-Stack web developer
 - :guitar: Playing Guitar as a hobby
-- 📫 How to reach me : amine.dahah.etudes@gmail.com
+- 📫 How to reach me : amine.dahah.etudes@gmail.com  
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aminedh27.aminedh27)
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### Github Stats
+[![amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminedh27&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 aminedh27/aminedh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
