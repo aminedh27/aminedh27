@@ -3,7 +3,7 @@
 
 My name is Amine DAHAH a computer Science student currently learning web developement.
 
-:mailbox_with_mail: Reach me out!
+### :mailbox_with_mail: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Amine_DH27-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Amine_DH27)](https://twitter.com/Amine_DH27) 
 [![Mail Badge](https://img.shields.io/badge/-@Amine_DH27-e84393?style=flat&labelColor=e84392&logo=instagram&logoColor=white)](https://www.instagram.com/Amine_DH27/) 
@@ -14,7 +14,7 @@ My name is Amine DAHAH a computer Science student currently learning web develop
 - :guitar: Playing Guitar as a hobby
 - 📫 How to reach me : amine.dahah.etudes@gmail.com  
 
-#### Most used technologies
+### Most used technologies
 
  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=26px />
