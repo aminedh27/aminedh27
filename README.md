@@ -21,6 +21,9 @@ My name is Amine DAHAH a computer Science student currently learning web develop
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
