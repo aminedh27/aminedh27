@@ -18,6 +18,10 @@ My name is Amine DAHAH a computer Science student currently learning web develop
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aminedh27.aminedh27)
 
+<details>
+<summary>
+Learn more About Me
+</summary>
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -26,6 +30,7 @@ My name is Amine DAHAH a computer Science student currently learning web develop
 #### Github Stats
 [![amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminedh27&count_private=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
+</details>
 <!---
 aminedh27/aminedh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
