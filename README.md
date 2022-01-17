@@ -3,16 +3,16 @@
 
 My name is Amine DAHAH a computer Science student currently learning web developement.
 
+- :computer: I'm currently studying Computer Science
+- :sparkler: Learning to become Full-Stack web developer
+- :guitar: Playing Guitar as a hobby
+- 📫 How to reach me : amine.dahah.etudes@gmail.com  
+
 ### :mailbox_with_mail: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Amine_DH27-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Amine_DH27)](https://twitter.com/Amine_DH27) 
 [![Mail Badge](https://img.shields.io/badge/-@Amine_DH27-e84393?style=flat&labelColor=e84392&logo=instagram&logoColor=white)](https://www.instagram.com/Amine_DH27/) 
 [![Mail Badge](https://img.shields.io/badge/-DAHAH_AMINE-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amine.dahah.etudes@gmail.com)
-
-- :computer: I'm currently studying Computer Science
-- :sparkler: Learning to become Full-Stack web developer
-- :guitar: Playing Guitar as a hobby
-- 📫 How to reach me : amine.dahah.etudes@gmail.com  
 
 ### Most used technologies
 
