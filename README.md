@@ -36,7 +36,10 @@ Learn more About Me
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS        1 hr 48 mins    █████████████░░░░░░░░░░░░   52.37 % 
+HTML       57 mins         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Markdown   35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 % 
+YAML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 <!--END_SECTION:waka-->
 
