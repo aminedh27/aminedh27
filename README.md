@@ -36,10 +36,10 @@ Learn more About Me
 
 <!--START_SECTION:waka-->
 ```text
-CSS        6 hrs 8 mins    ███████████████▒░░░░░░░░░   61.45 % 
-HTML       2 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 % 
-Markdown   1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-YAML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+CSS        9 hrs 11 mins   ████████████████▒░░░░░░░░   65.99 % 
+HTML       3 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.35 % 
+Markdown   1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+YAML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
 
