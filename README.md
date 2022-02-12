@@ -36,8 +36,7 @@ Learn more About Me
 
 <!--START_SECTION:waka-->
 ```text
-HTML   1 hr 5 mins     ███████████████████████▒░   93.95 % 
-CSS    4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
