@@ -35,10 +35,12 @@ Learn more About Me
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   30 mins         █████████████████████░░░░   83.71 % 
-HTML         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+JavaScript   14 mins         ████████████████████████▒   97.38 %
+HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
