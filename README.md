@@ -37,9 +37,10 @@ Learn more About Me
 <!--START_SECTION:waka-->
 
 ```text
-HTML         12 mins         ████████████████░░░░░░░░░   64.08 %
-JavaScript   4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-CSS          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+CSS          1 hr 23 mins    ███████████▒░░░░░░░░░░░░░   45.23 %
+HTML         1 hr 16 mins    ██████████▒░░░░░░░░░░░░░░   41.79 %
+JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
