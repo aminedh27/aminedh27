@@ -37,7 +37,9 @@ Learn more About Me
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   12 mins         █████████████▓░░░░░░░░░░░   54.36 %
+JSON         10 mins         ███████████▒░░░░░░░░░░░░░   45.37 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
