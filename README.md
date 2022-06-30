@@ -37,9 +37,9 @@ Learn more About Me
 <!--START_SECTION:waka-->
 
 ```text
-CSS    2 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   37.23 %
-Java   1 hr 59 mins    ████████░░░░░░░░░░░░░░░░░   32.34 %
-HTML   1 hr 52 mins    ███████▓░░░░░░░░░░░░░░░░░   30.43 %
+Java   1 hr 59 mins    ██████████░░░░░░░░░░░░░░░   40.21 %
+CSS    1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   30.01 %
+HTML   1 hr 28 mins    ███████▒░░░░░░░░░░░░░░░░░   29.78 %
 ```
 
 <!--END_SECTION:waka-->
