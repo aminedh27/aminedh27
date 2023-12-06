@@ -4,7 +4,7 @@
 My name is Amine DAHAH a computer Science student currently learning web developement.
 
 - :computer: I'm currently studying Computer Science
-- :sparkler: Learning to become Full-Stack web developer
+- :sparkler: Full-Stack web developer
 - :guitar: Playing Guitar as a hobby
 - 📫 How to reach me : amine.dahah.etudes@gmail.com  
 
