@@ -35,10 +35,10 @@
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=450 height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=aminedh27&theme=dark" />
+      <img width=350 height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=aminedh27&theme=dark" />
     </a>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=450 align="left"  height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=aminedh27&theme=dark&border=61dafb&hide_border=true" alt="khalilbnd" />
+      <img width=350 align="left"  height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=aminedh27&theme=dark&border=61dafb&hide_border=true" alt="khalilbnd" />
     </a>
 </div>
   <br><br><br><br><br><br><br><br><br>
